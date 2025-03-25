@@ -1,0 +1,25 @@
+# Node.js dependencies are managed via package.json and npm
+# This file is for reference and documentation purposes
+
+# Core Dependencies
+next>=13.4.19
+react>=18.2.0
+react-dom>=18.2.0
+axios>=1.4.0
+
+# Database
+sqlite3>=5.1.6
+better-sqlite3>=8.5.0
+
+# TypeScript Support
+typescript>=5.2.2
+@types/node>=20.5.6
+@types/react>=18.2.21
+
+# CSS and Styling
+tailwindcss>=3.3.3
+autoprefixer>=10.4.15
+postcss>=8.4.28
+
+# Environment Variables
+dotenv>=16.3.1 
