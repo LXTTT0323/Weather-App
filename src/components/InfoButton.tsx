@@ -59,7 +59,7 @@ const InfoButton = () => {
 
               <div className="mb-4">
                 <h3 className="text-lg font-semibold mb-2">Developer</h3>
-                <p>Your Name</p>
+                <p>Tao Li</p>
               </div>
 
               <div>
@@ -73,7 +73,7 @@ const InfoButton = () => {
                 <p className="text-gray-700">
                   Learn more at{' '}
                   <a
-                    href="https://www.linkedin.com/company/product-manager-accelerator/"
+                    href="https://www.linkedin.com/school/pmaccelerator/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary hover:underline"
